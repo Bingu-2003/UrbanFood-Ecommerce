@@ -17,6 +17,6 @@ The UrbanFood project is a web application designed to connect consumers and far
 - **Order Management**: Consumers can view their order status suppliers can confirm or reject orders.
 - **Delivery Management**: Consumers can view thier delivery status ,suppliers can update delivry status.
 
-** Plz consider that this is a team project that we done under the oracle DBMS module.**
+** Plz consider that this is a team project that we have done under the oracle DBMS module.**
 
 
